@@ -1,0 +1,13 @@
+ID,Name,Age,Salary,Department,Joining_Date
+1,Alice,25.0,50000.0,HR,2018-01-15
+2,Bob,30.0,60000.0,Engineering,2017-03-22
+3,Charlie,,70000.0,Finance,2016-07-11
+4,David,40.0,80000.0,Marketing,2019-05-30
+5,Eva,45.0,,Engineering,2015-11-20
+6,Frank,50.0,100000.0,Finance,2014-09-25
+7,Grace,-5.0,110000.0,,2013-08-19
+8,Hannah,60.0,120000.0,Marketing,2020-02-15
+9,Ian,65.0,130000.0,Engineering,2012-06-12
+10,Judy,70.0,-1000.0,HR,2011-05-01
+11,Karl,200.0,5000000.0,HR,2023-15-10
+12,Laura,55.0,140000.0,Engineering,2010-01-35
